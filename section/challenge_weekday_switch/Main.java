@@ -20,13 +20,13 @@ public class Main {
                 System.out.println("Day of the week: " + "Friday");
                 break;
             case 6:
-                System.out.println("Day of the week: " + "Saterday");
+                System.out.println("Day of the week: " + "Saturday");
                 break;
             case 7:
                 System.out.println("Day of the week: " + "Sunday");
                 break;
             default:
-                System.out.println("Day of the week: " + "invalid day");
+                System.out.println("Day of the week: " + "Invalid day");
                 break;
         }
     }
